@@ -782,10 +782,10 @@ ul.get-list li::before {
 }
 @media (max-width:22.5em) {
   section {
-    padding-top: 7.5rem
+    padding-top: 2.5rem
   }
   section {
-    padding-bottom: 7.5rem
+    padding-bottom: 2.5rem
   }
   .section__container {
     padding-top: 2rem
@@ -865,10 +865,10 @@ ul.get-list li::before {
 }
 @media (min-width:22.5em)and (max-width:85em) {
   section {
-    padding-top: clamp(7.5rem ,4.8rem + 12vw ,15rem)
+    padding-top: clamp(2.5rem ,-2rem + 20vw ,15rem)
   }
   section {
-    padding-bottom: clamp(7.5rem ,4.8rem + 12vw ,15rem)
+    padding-bottom: clamp(2.5rem ,-2rem + 20vw ,15rem)
   }
   .section__container {
     padding-top: clamp(2rem ,1.46rem + 2.4vw ,3.5rem)
